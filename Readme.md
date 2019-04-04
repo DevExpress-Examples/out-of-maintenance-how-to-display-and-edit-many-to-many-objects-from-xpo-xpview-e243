@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/EditManyToMany/Default.aspx) (VB: [Default.aspx](./VB/EditManyToMany/Default.aspx))
-* [Default.aspx.cs](./CS/EditManyToMany/Default.aspx.cs) (VB: [Default.aspx](./VB/EditManyToMany/Default.aspx))
+* [Default.aspx.cs](./CS/EditManyToMany/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/EditManyToMany/Default.aspx.vb))
 * [PersistentClasses.cs](./CS/EditManyToMany/PersistentClasses.cs) (VB: [PersistentClasses.vb](./VB/EditManyToMany/PersistentClasses.vb))
 * [XpoHelper.cs](./CS/EditManyToMany/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/EditManyToMany/XpoHelper.vb))
 <!-- default file list end -->
