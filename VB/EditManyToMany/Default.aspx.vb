@@ -11,7 +11,7 @@ Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports DevExpress.Xpo
 Imports DevExpress.Xpo.Metadata
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Namespace EditManyToMany
 	Partial Public Class _Default

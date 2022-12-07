@@ -10,7 +10,7 @@ using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using DevExpress.Xpo;
 using DevExpress.Xpo.Metadata;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 namespace EditManyToMany {
     public partial class _Default : System.Web.UI.Page {
